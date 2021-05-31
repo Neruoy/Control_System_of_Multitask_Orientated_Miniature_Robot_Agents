@@ -1,2 +1,2 @@
-# Control_System_of_Multitask_Orientated_Miniature_Robot_Agents
+# Control System of Multitask Orientated Miniature Robot Agents
 This is my Final Year Capstone Project.
