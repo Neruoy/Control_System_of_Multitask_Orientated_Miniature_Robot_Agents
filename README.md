@@ -64,8 +64,17 @@ The state diagram of our agent is shown below:
 ![image-20210617144245120](https://user-images.githubusercontent.com/72918178/122347059-36f74080-cf7c-11eb-8c86-c4f0fd943bda.png)
 
 # RESULT
+## Pathplaning
 
 https://user-images.githubusercontent.com/72918178/122349591-f9e07d80-cf7e-11eb-85d8-aa4f03f825da.mp4
 
-Check `demo_videos` folder for more demonstration video (including avoidance).
+https://user-images.githubusercontent.com/72918178/122352773-fef2fc00-cf81-11eb-9d57-2eb5b7be83d5.mp4
+
+## Avoidance mechanism
+
+https://user-images.githubusercontent.com/72918178/122352888-19c57080-cf82-11eb-8c99-f3a481bd24a8.mp4
+
+https://user-images.githubusercontent.com/72918178/122352953-28ac2300-cf82-11eb-8d68-298ed4045421.mp4
+
+
 
